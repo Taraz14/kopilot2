@@ -1,4 +1,4 @@
-# This is a Kopilot menu list based on web
+# iki menu kopilot based on web
 
 curhat sekk.
 sebelumnya niatnya mau bikin apps karena device yang dipake adalah ipad 1 ios 5.1.1
